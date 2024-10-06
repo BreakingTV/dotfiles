@@ -31,4 +31,5 @@ in
     "cloudflare.env.age".publicKeys = allKeys;
     "firefly.env.age".publicKeys = allKeys;
     "vaultwarden.env.age".publicKeys = allKeys;
+    "sonarqube.env.age".publicKeys = allKeys;
 }

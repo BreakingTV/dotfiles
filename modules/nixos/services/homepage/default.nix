@@ -133,12 +133,14 @@ in
                               ping = "http://192.168.1.1/";
                           };
                       }
+
                       {
                           "Proton Mail" = {
                               href = ''https://mail.proton.me'';
                               icon = ''proton-mail'';
                           };
                       }
+
                       {
                           "Google Calendar" = {
                               href = ''https://calendar.google.com'';
